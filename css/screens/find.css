@@ -83,6 +83,10 @@
   border-radius: 10px;
 }
 
+.open-post__heart-count span {
+  margin-left: 3px;
+}
+
 .open-post__heart-count {
   background-color: rgba(0, 0, 0, 0.5);
   color: white;
@@ -94,8 +98,4 @@
   bottom: 10px;
   right: 5px;
   font-size: 12px;
-}
-
-.open-post__heart-count span {
-  margin-left: 3px;
 }
